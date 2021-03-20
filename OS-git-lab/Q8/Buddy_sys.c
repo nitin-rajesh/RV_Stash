@@ -40,7 +40,7 @@ int main()
 				scanf("%d",&req);
 				segmentalloc(totsize,req);
 				break;
-			case 2:
+			case 2: 
 //				clrscr();
 				//printf("");
 				for(i=0;i<80;i++) printf("%c",5);
