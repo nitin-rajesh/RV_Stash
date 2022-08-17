@@ -20,6 +20,6 @@
 
 6. yacc/tac
 
-7. yac/function
+7. yacc/function
 
-8. yac/asm
+8. yacc/asm
