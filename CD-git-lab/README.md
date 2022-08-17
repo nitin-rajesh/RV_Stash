@@ -14,7 +14,7 @@
 
 4a. lex/idopkey
 
-4b. Derive from 3b
+4b. yacc/nestif
 
 5. Misc
 
